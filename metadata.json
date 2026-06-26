@@ -1,0 +1,6 @@
+{
+  "name": "Dan Sai Adventure",
+  "description": "An adventure game set in Dan Sai, Loei, featuring the famous Phi Ta Khon Festival with customizable controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
